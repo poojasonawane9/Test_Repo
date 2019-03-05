@@ -9,4 +9,7 @@ public static void addition(int number1,int number2){
 public static void substraction(int number1,int number2){
 			System.out.println("substraction="+(number1 - number2));
 		}
+public static void multiplication(int number1,int number2){
+			System.out.println("multiplication="+(number1 * number2));
+		}
 }
